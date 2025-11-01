@@ -26,7 +26,7 @@ This project is a **Streamlit-based dashboard** leveraging **AI and threat intel
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/threat-intel-dashboard.git
+git clone https://github.com/DeepakNarayananS/threat-intel-dashboard.git
 cd threat-intel-dashboard
 ```
 
