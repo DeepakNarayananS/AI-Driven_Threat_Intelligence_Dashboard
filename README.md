@@ -53,7 +53,8 @@ Analyze suspicious IPs, domains, and file hashes with real-time threat intellige
 
 ```bash
 # Clone the repository or download the files
-cd your-project-directory
+git clone https://github.com/DeepakNarayananS/AI-Driven_Threat_Intelligence_Dashboard.git
+cd AI-Driven_Threat_Intelligence_Dashboard
 ```
 
 ### Step 2: Install Dependencies
