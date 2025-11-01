@@ -1,4 +1,4 @@
-# 🔒 AI Threat Intelligence CLI
+# 🔒 AI Driven Threat Intelligence
 
 <div align="center">
 
@@ -215,27 +215,49 @@ Type `yes` or `y` to send a beautiful HTML email report!
 
 ---
 
-## � Sucreenshots
+## 📸 Screenshots
 
-### Email Report - Malicious Hash Detection
+### 📧 Email Report - Malicious Hash Detection
 Beautiful HTML email report showing a malicious file hash analysis with detailed threat intelligence.
 
-![Email Report - Header and Verdict](email-report-1.png)
+<p align="center">
+  <img src="email-report-1.png" alt="Email Report Header" width="800">
+</p>
 
-### AI-Powered Assessment & Recommendations
+<p align="center"><i>Professional email report with color-coded verdict banner and detailed statistics</i></p>
+
+---
+
+### 🤖 AI-Powered Assessment & Recommendations
 AI-generated summary with actionable recommendations and references.
 
-![Email Report - AI Assessment](email-report-2.png)
+<p align="center">
+  <img src="email-report-2.png" alt="AI Assessment" width="800">
+</p>
 
-### Terminal Output - Real-time Analysis
+<p align="center"><i>AI analysis with recommended actions and threat intelligence references</i></p>
+
+---
+
+### 💻 Terminal Output - Real-time Analysis
 Live terminal output showing the analysis process and AI response.
 
-![Terminal Output](terminal-output.png)
+<p align="center">
+  <img src="terminal-output.png" alt="Terminal Output" width="800">
+</p>
 
-### Email Inbox - Report Notifications
+<p align="center"><i>Real-time threat intelligence gathering and AI-powered analysis in terminal</i></p>
+
+---
+
+### 📬 Email Inbox - Report Notifications
 Email notifications showing multiple threat intelligence reports.
 
-![Email Inbox](email-inbox.png)
+<p align="center">
+  <img src="email-inbox.png" alt="Email Inbox" width="800">
+</p>
+
+<p align="center"><i>Gmail inbox showing threat intelligence report notifications</i></p>
 
 ---
 
