@@ -25,12 +25,6 @@ This project is an **AI-powered threat intelligence dashboard** built with **Fas
 
 ---
 
-## **Demo Screenshot**
-
-*(Insert screenshot here if available)*
-
----
-
 ## **Installation Guide**
 
 ### 1. Clone the Repository
@@ -197,7 +191,3 @@ ai-threat-intel-dashboard/
 ## **License**
 
 MIT License – feel free to use and modify for personal or research purposes.
-
----
-
-Do you want me to do that?
