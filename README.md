@@ -12,19 +12,6 @@ Analyze suspicious IPs, domains, and file hashes using natural language queries.
 
 [Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Usage](#-usage) • [API Keys](#-api-keys)
 
----
-
-### 🎬 See It In Action
-
-<div align="center">
-
-| Email Report | Terminal Analysis |
-|:------------:|:-----------------:|
-| ![Email Preview](email-report-1.png) | ![Terminal Preview](terminal-output.png) |
-| Professional HTML email reports | Real-time threat intelligence |
-
-</div>
-
 </div>
 
 ---
@@ -141,7 +128,7 @@ SMTP_USE_TLS=True
 ### Run the Assistant
 
 ```bash
-python ai_driven_threat_intel.py
+python .kiro/python.py
 ```
 
 ### Example Session
