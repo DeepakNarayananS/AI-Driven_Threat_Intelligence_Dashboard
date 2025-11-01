@@ -36,7 +36,7 @@ This project is an **AI-powered threat intelligence dashboard** built with **Fas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-threat-intel-dashboard.git
+git clone https://github.com/DeepakNarayananS/ai-threat-intel-dashboard.git
 cd ai-threat-intel-dashboard
 ```
 
