@@ -18,8 +18,8 @@ AI-powered FastAPI dashboard for analyzing IPs, domains, and file hashes with mu
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DeepakNarayananS/your-repo.git
-cd your-repo
+git clone https://github.com/DeepakNarayananS/AI-Driven_Threat_Intelligence_Dashboard.git
+cd AI-Driven_Threat_Intelligence_Dashboard
 ```
 
 ### 2. Create a virtual environment
