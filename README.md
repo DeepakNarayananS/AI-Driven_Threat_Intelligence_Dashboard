@@ -12,6 +12,19 @@ Analyze suspicious IPs, domains, and file hashes with real-time threat intellige
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Screenshots](#-screenshots)
 
+---
+
+### 🎬 See It In Action
+
+<div align="center">
+
+| Email Report | Terminal Analysis |
+|:------------:|:-----------------:|
+| ![Email Preview](email-report-1.png) | ![Terminal Preview](terminal-output.png) |
+| Professional HTML email reports | Real-time threat intelligence |
+
+</div>
+
 </div>
 
 ---
@@ -53,8 +66,7 @@ Analyze suspicious IPs, domains, and file hashes with real-time threat intellige
 
 ```bash
 # Clone the repository or download the files
-git clone https://github.com/DeepakNarayananS/AI-Driven_Threat_Intelligence_Dashboard.git
-cd AI-Driven_Threat_Intelligence_Dashboard
+cd your-project-directory
 ```
 
 ### Step 2: Install Dependencies
@@ -200,6 +212,30 @@ Send this report via email? (yes/no): yes
 ```
 
 Type `yes` or `y` to send a beautiful HTML email report!
+
+---
+
+## � Sucreenshots
+
+### Email Report - Malicious Hash Detection
+Beautiful HTML email report showing a malicious file hash analysis with detailed threat intelligence.
+
+![Email Report - Header and Verdict](email-report-1.png)
+
+### AI-Powered Assessment & Recommendations
+AI-generated summary with actionable recommendations and references.
+
+![Email Report - AI Assessment](email-report-2.png)
+
+### Terminal Output - Real-time Analysis
+Live terminal output showing the analysis process and AI response.
+
+![Terminal Output](terminal-output.png)
+
+### Email Inbox - Report Notifications
+Email notifications showing multiple threat intelligence reports.
+
+![Email Inbox](email-inbox.png)
 
 ---
 
