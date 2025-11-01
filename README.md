@@ -51,9 +51,7 @@ uvicorn
 requests
 python-dotenv
 jinja2
-geopy
-pandas
-openai  # Together AI integration
+folium
 ```
 
 ---
@@ -72,13 +70,13 @@ OTX_API=your_alienvault_otx_api_key
 TOGETHER_API_KEY=your_together_ai_api_key
 
 # ===== Email Alert Settings =====
-EMAIL_ALERT_TO=recipient@example.com
-EMAIL_FROM=alert-bot@example.com
-SMTP_SERVER=smtp.gmail.com
+EMAIL_ALERT_TO="recipient@example.com"
+EMAIL_FROM="alert-bot@example.com"
+SMTP_SERVER="smtp.gmail.com"
 SMTP_PORT=587
 SMTP_USE_TLS=True
-SMTP_USER=your_email@gmail.com
-SMTP_PASS=your_email_password_or_app_password
+SMTP_USER="your_email@gmail.com"
+SMTP_PASS="your_email_password_or_app_password"
 ```
 
 **Note:**
